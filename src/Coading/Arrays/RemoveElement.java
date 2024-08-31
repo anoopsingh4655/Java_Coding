@@ -1,4 +1,4 @@
-package Arrays;
+package Coading.Arrays;
 
 import java.util.Arrays;
 
